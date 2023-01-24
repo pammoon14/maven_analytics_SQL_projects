@@ -18,5 +18,9 @@ These SQL assignments were completed for  the "MySQL Data Analysis" course throu
 3. CASE WHEN statments
 4. Combine data from multiple tables, including JOIN types, UNION
 
-## Project Description: Mid Course Assignment
+## Mid Course Assignment: Project Description
 **Scenario:** A Lead Underwriter is asking you, the Maven Movies Management team, to pull some business information to help with a policy review process.
+
+## Mid Course Assignment: Results
+![](https://github.com/pammoon14/maven_analytics_SQL_projects/blob/main/images/SQL_midcourse_project_result1.png)
+![](https://github.com/pammoon14/maven_analytics_SQL_projects/blob/main/images/SQL_midcourse_project_result2.png)
