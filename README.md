@@ -15,7 +15,7 @@ These SQL assignments were completed for  the "MySQL Data Analysis" course throu
 **MySQL:** 
 1. "Big 6" SQL statements and clauses: SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY.
 2. Aggregate functions, including COUNT, SUM, MAX, AVG, and COUNT DISTINCT
-3. CASE WHEN statments
+3. CASE WHEN statements
 4. Combine data from multiple tables, including JOIN types, UNION
 
 ## Mid Course Assignment: Project Description
